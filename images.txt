@@ -8,3 +8,5 @@ postgres:12
 redis:alpine
 chatwoot/chatwoot:latest
 pch18/baota
+rocketchat/rocket.chat:latest
+bitnami/mongodb:5.0
