@@ -7,3 +7,4 @@ xhofe/alist:latest
 postgres:latest
 redis:latest
 chatwoot/chatwoot:latest
+mysql/mysql:latest
