@@ -11,3 +11,4 @@ pch18/baota
 rocketchat/rocket.chat:latest
 bitnami/mongodb:5.0
 codegentoolbox/laftools-linux-x64
+cppla/serverstatus:latest
